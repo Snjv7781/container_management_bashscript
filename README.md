@@ -39,9 +39,7 @@ Bash shell (for Unix/Linux/macOS environments).
 
 Installation
 
-# Clone the repository
-git clone https://github.com/your-repo/docker-manager.git
-cd docker-manager
+
 
 # Make the script executable
 chmod +x docker-manager.sh
