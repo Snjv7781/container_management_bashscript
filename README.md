@@ -42,13 +42,13 @@ Installation
 
 
 # Make the script executable
-chmod +x docker-manager.sh
+chmod +x container-managment.sh
 
 Usage
 
 Run the script using:
 
-./docker-manager.sh
+./container-management.sh
 
 Follow the on-screen instructions to select operations such as viewing images, pulling new images, running containers, or managing running containers.
 
